@@ -1,7 +1,7 @@
 ## Welcome to my profile! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### 📫 &nbsp; How to reach me
-- ![LinkedIn](https://www.linkedin.com/in/mohd-osama)
+- [LinkedIn](https://www.linkedin.com/in/mohd-osama)
 - email me at mohd.osama.elnour@gmail.com.
 
 ### 🛠 &nbsp;Tech Stack
